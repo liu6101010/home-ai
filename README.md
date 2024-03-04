@@ -1,2 +1,2 @@
 # home-ai
-home based AI integration
+home based AI implementation
